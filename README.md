@@ -5,7 +5,7 @@
 
 # Summary:
 This package fits sigmoid functions to psychoacoustic data collected during psychological
-experimentation at the University of Cambridge by David Greatrex.
+experimentation at the University of Cambridge.
 
 # Data:
 The data is taken from an experiment investigating the effects of rhythmic expectation on
