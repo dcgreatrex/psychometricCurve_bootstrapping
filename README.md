@@ -55,11 +55,11 @@ Note - due to bootstrapping the script will take a long time to complete. ~25 mi
 by looking at how many plots have been output into the plot folder. There are 24 participants in total.
 
 # References:
-[Daw, N. (2011). Trial-by-trial data analysis using computational models. In. Delgado, M., Phelps, E., & Robbins, T., (Eds). Decision making, affect, and learning: Attention and Performace XX111. Oxford, Oxford University Press, 3-38.](http://www.cns.nyu.edu/~daw/d10.pdf)
-Knoblauch, K. and Maloney, L. T. (2012). Modeling psychophysical data in R, volume
-32. Springer Science & Business Media.
-James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013). An introduction to
-statistical learning, volume 112. Springer.
+[Daw, N. (2011). Trial-by-trial data analysis using computational models. In. Delgado, M., Phelps, E., & Robbins, T., (Eds). Decision making, affect, and learning: Attention and Performace XX111. Oxford, Oxford University Press, 3-38.](http://www.cns.nyu.edu/~daw/d10.pdf) \n
+[Knoblauch, K. and Maloney, L. T. (2012). Modeling psychophysical data in R, volume
+32. Springer Science & Business Media.](http://www.springer.com/gp/book/9781461444749) \n
+[James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013). An introduction to
+statistical learning, volume 112. Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)\n
 Piazza, E. A., Sweeny, T. D., Wessel, D., Silver, M. A., and Whitney, D. (2013). Humans
 use summary statistics to perceive auditory sequences. Psychological science,
 24(8):1389–1397.
