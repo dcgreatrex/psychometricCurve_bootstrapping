@@ -65,7 +65,7 @@ statistical learning, volume 112. Springer.](http://www-bcf.usc.edu/~gareth/ISL/
 
 *[Piazza, E. A., Sweeny, T. D., Wessel, D., Silver, M. A., and Whitney, D. (2013). Humans
 use summary statistics to perceive auditory sequences. Psychological science,
-24(8):1389–1397].(http://pss.sagepub.com/content/24/8/1389.short)
+24(8):1389–1397.](http://pss.sagepub.com/content/24/8/1389.short)
 
 *[Gold, J. R., Nodal, F. R., Peters, F., King, A. J., and Bajo, V. M. (2015). Auditory
 gap-in-noise detection behavior in ferrets and humans. Behavioral neuroscience,
