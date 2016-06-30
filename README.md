@@ -1,8 +1,8 @@
 
 # Fitting psychometric functions using a bootstrapping procedure
 Author:	David Greatrex, PhD Candidate, University of Cambridge.  
-Date: 01/03/2016
-Language: R
+Date: 01/03/2016.
+Language: R.
 Modifications:
 
 # Summary:
