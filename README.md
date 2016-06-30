@@ -30,25 +30,25 @@ variability would be neglected (Daw, 2011, pp. 7-8).
 
 # Bootstrapping:
 To extract the most unbiased fit for each model, a bootstrapped distribution of model-fitting 
-parameters was generated for each psychometric function (as in Knoblauch and Maloney, 2012; 
-James et al., 2013; Piazza et al., 2013; Gold et al., 2015). This involved resampling the data with 
+parameters is generated for each psychometric function (as in Knoblauch and Maloney, 2012; 
+James et al., 2013; Piazza et al., 2013; Gold et al., 2015). This involves resampling the data with 
 replacement 10,000 times to produce 10,000 bootstrapped samples and fitting each bootstrapped sample 
-with the same model used on the original data. This resulted in a bootstrapped distribution of parameter 
-values B0 and B1 from which the average parameter values (mean(B0) and mean(B1)) were retained. Threshold
+with the same model used on the original data. This results in a bootstrapped distribution of parameter 
+values B0 and B1 from which the average parameter values (mean(B0) and mean(B1)) are retained. Threshold
 and slope where then defined by:
 Threshold = -mean(B0)/mean(B1)
 Slope = mean(B1)
-where threshold represented the location of the probe tone corresponding to 50% of left responses (also 
-the mean of the underlying cumulative distribution function) and slope to the steepness of the psychometric 
+where threshold represents the location of the probe tone corresponding to 50% of left responses (also 
+the mean of the underlying distribution function) and slope to the steepness of the psychometric 
 curve. Higher slopes represented greater discrimination of the average sequence location, whereas thresholds 
 smaller or larger than zero represented a left or rightward bias in the perceived location of the average
 relative to the probe tone.
 
 # To run:
-Download the content of the folder locally on to your hardrive including the folder structure. 
-Open the r script 'main.R'. 
-Change to path on line 18 to represent the folder location in which you saved the downloaded content.
-Run 'main.R'. All plots will then be saved into the downloaded filestructure.
+> Download the content of the folder locally on to your hardrive including the folder structure. 
+> Open the r script 'main.R'. 
+> Change the path on line 18 to represent the folder location in which you saved the downloaded content.
+> Run 'main.R'. All plots will then be saved into the downloaded filestructure.
 Note - due to bootstrapping the script will take a long time to complete. ~25 minutes. You can check progress
 by looking at how many plots have been output into the plot folder. There are 24 participants in total.
 
