@@ -45,10 +45,10 @@ smaller or larger than zero represented a left or rightward bias in the perceive
 relative to the probe tone.
 
 # To run:
--> Download the content of the folder locally on to your hardrive including the folder structure. 
--> Open the r script 'main.R'. 
--> Change the path on line 18 to represent the folder location in which you saved the downloaded content.
--> Run 'main.R'. All plots will then be saved into the downloaded filestructure.
+1. Download the content of the folder locally on to your hardrive including the folder structure. 
+2. Open the r script 'main.R'. 
+3. Change the path on line 18 to represent the folder location in which you saved the downloaded content.
+4. Run 'main.R'. All plots will then be saved into the downloaded filestructure.
 Note - due to bootstrapping the script will take a long time to complete. ~25 minutes. You can check progress
 by looking at how many plots have been output into the plot folder. There are 24 participants in total.
 
