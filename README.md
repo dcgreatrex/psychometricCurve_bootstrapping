@@ -3,21 +3,21 @@
 *Author: David Greatrex, PhD Candidate, University of Cambridge.  
 *Date: 01/03/2016 -- Language: R. -- Modifications:
 
-# Summary:
+## Summary:
 This package fits sigmoid functions to psychoacoustic data collected during psychological
 experimentation at the University of Cambridge.
 
-# Data:
+## Data:
 The data is taken from an experiment investigating the effects of rhythmic expectation on
 complex decision-making. This used the psychophysical method of constant stimuli, in which
 the target stimulus was varied systematically around a detection threshold.
 
-# Purpose:
+## Purpose:
 The purpose of these analytical scripts is to fit psychometric functions to each participants
 data, individually by each condtion of interest. Slope and threshold values are then extracted
 from each fit and compared across condition and group using pairwise t-tests.
 
-# Method:
+## Method:
 The process of fitting models to each participant’s data and then testing group differences using 
 null hypothesis significance testing on the estimated parameters, rather than fitting one model to 
 the entire dataset, has been termed the ‘summary statistics approach’ to computational modelling and 
@@ -28,7 +28,7 @@ experiment and analysis on them. In contrast, were only one model fit to the ent
 estimated parameters would be treated as fixed effects and as a result, all between participant 
 variability would be neglected (Daw, 2011, pp. 7-8).
 
-# Bootstrapping:
+## Bootstrapping:
 To extract the most unbiased fit for each model, a bootstrapped distribution of model-fitting 
 parameters is generated for each psychometric function (as in Knoblauch and Maloney, 2012; 
 James et al., 2013; Piazza et al., 2013; Gold et al., 2015). This involves resampling the data with 
@@ -44,7 +44,7 @@ curve. Higher slopes represented greater discrimination of the average sequence 
 smaller or larger than zero represented a left or rightward bias in the perceived location of the average
 relative to the probe tone.
 
-# To run:
+## To run:
 1. Download the content of the folder locally on to your hardrive including the folder structure. 
 2. Open the r script 'main.R'. 
 3. Change the path on line 18 to represent the folder location in which you saved the downloaded content.
@@ -52,7 +52,7 @@ relative to the probe tone.
 Note - due to bootstrapping the script will take a long time to complete. ~25 minutes. You can check progress
 by looking at how many plots have been output into the plot folder. There are 24 participants in total.
 
-# References:
+## References:
 *[Daw, N. (2011). Trial-by-trial data analysis using computational models. In. Delgado, M., Phelps, E., & Robbins, T., (Eds). Decision making, affect, and learning: Attention and Performace XX111. Oxford, Oxford University Press, 3-38.](http://www.cns.nyu.edu/~daw/d10.pdf)
 
 *[Knoblauch, K. and Maloney, L. T. (2012). Modeling psychophysical data in R, volume
