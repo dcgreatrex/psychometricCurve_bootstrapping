@@ -1,0 +1,1019 @@
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 2 channels Playback: Audio subsystem is Core Audio, Audio device name is Built-in Output
+PTB-INFO: Real samplerate 48828.000000 Hz. Input latency 0.000000 msecs, Output latency 3.072008 msecs.
+Undefined function or variable 'n_run'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trialloop', '/Users/dcg/Code/Experimental/Matlab/programs/4_averaging_threshold/private/trialloop.m', 34)" style="font-weight:bold">trialloop</a> (<a href="matlab: opentoline('/Users/dcg/Code/Experimental/Matlab/programs/4_averaging_threshold/private/trialloop.m',34,0)">line 34</a>)
+            n_run = n_run + 1;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('averaging_threshold', '/Users/dcg/Code/Experimental/Matlab/programs/4_averaging_threshold/averaging_threshold.m', 23)" style="font-weight:bold">averaging_threshold</a> (<a href="matlab: opentoline('/Users/dcg/Code/Experimental/Matlab/programs/4_averaging_threshold/averaging_threshold.m',23,0)">line 23</a>)
+    trialloop(Pointers, Stimuli, Response, t, Prepair);       
+
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 603 times out of a total of 821 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+averaging_threshold(5)
+Undefined function or variable 'Pointers'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('averaging_threshold', '/Users/dcg/Code/Experimental/Matlab/programs/4_averaging_threshold/averaging_threshold.m', 24)" style="font-weight:bold">averaging_threshold</a> (<a href="matlab: opentoline('/Users/dcg/Code/Experimental/Matlab/programs/4_averaging_threshold/averaging_threshold.m',24,0)">line 24</a>)
+    trialloop(Pointers, Stimuli, Response, t, Prepair);       
+
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PTB-INFO: Connection to Psychtoolbox kernel support driver instance #0 (Revision 1) established.
+PTB-INFO: Disconnecting from kernel driver instance #0 for detected Intel GPU for safety reasons. setenv('PSYCH_ALLOW_DANGEROUS', '1') to override.
+PTB-INFO: Running on OSX 10.9+ - Enabling protection against AppNap and other evils.
+averaging_threshold(7)
