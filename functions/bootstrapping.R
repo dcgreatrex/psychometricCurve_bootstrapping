@@ -5,9 +5,9 @@
 # Author: David Greatrex, PhD Candidate, University of Cambridge. 
 # Author responsibility: PhD candidate
 # Date: 8/02/2016                                                                            
-# Modifications:
+# Modifications: 11/11/2016
 #-----------------------------------------------------------------------------------------------------
-bootstrap.periodicity.testLevel <- function(i, p.agg, ap.agg, p.glm, ap.glm){
+fitBootstrap <- function(i, p.agg, ap.agg, p.glm, ap.glm){
   #--------------------------------------------
   # Run boostrapping procedures to estimate model fit
   #--------------------------------------------

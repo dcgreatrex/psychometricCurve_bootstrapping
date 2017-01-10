@@ -5,9 +5,9 @@
 # Author: David Greatrex, PhD Candidate, University of Cambridge. 
 # Author responsibility: PhD candidate
 # Date: 8/02/2016                                                                            
-# Modifications:
+# Modifications: 11/11/2016
 #-----------------------------------------------------------------------------------------------------
-periodicity_psy_curves <- function(i, p.agg, ap.agg, p.glm, ap.glm){
+fitPsychfunctions <- function(i, p.agg, ap.agg, p.glm, ap.glm){
   
   #--------------------------------------------
   # Periodic - predict responses using model
@@ -64,7 +64,7 @@ periodicity_psy_curves <- function(i, p.agg, ap.agg, p.glm, ap.glm){
   # http://www.dlinares.org/psychopract.html
   
   # threshold and slope function
-  dg_thresholdslope <- function(model, thresh){
+  thresholdslope <- function(model, thresh){
     mean <- -coef(model)[[1]] / coef(model)[[2]] 
     sd <- abs(1 / coef(model)[[2]])
     # threshold
@@ -87,7 +87,7 @@ periodicity_psy_curves <- function(i, p.agg, ap.agg, p.glm, ap.glm){
       mf <- threshold_slope(ap.pred$y, testLevel.ap)
       mf <- c(mf$x_th, mf$slope)
     }
-    dg.out <- dg_thresholdslope(model, 0.5)
+    dg.out <- thresholdslope(model, 0.5)
     # glm fit threshold_slope
     glm.out <- c((-coef(model)[[1]] / coef(model)[[2]]), coef(model)[[2]])
     # arrange as array for output

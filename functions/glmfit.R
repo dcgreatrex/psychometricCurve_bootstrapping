@@ -4,7 +4,7 @@
 # Author: David Greatrex, PhD Candidate, University of Cambridge. 
 # Author responsibility: PhD candidate
 # Date: 8/02/2016                                                                            
-# Modifications:
+# Modifications: 11/11/2016
 #-----------------------------------------------------------------------------------------------------
 participant <- function(dat, i){
   #--------------------------------------------

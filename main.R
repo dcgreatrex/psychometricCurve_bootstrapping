@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------------------------------
 # Author: David Greatrex, PhD Candidate, University of Cambridge.  
-# Date: 01/03/2016
+# Date: 01/03/2016, 11/11/2016
 # Name: Fitting psychometric functions using a bootstrapping procedure
 #-----------------------------------------------------------------------------------------------------
 library(lattice)
@@ -32,16 +32,16 @@ noPs <- 24
 #- load and list functions
 #--------------------------------------------
 # 1) main Expt 3 function
-source(paste(functionsWd,"mainFunctions.r",sep="/")) # load function script
+source(paste(functionsWd,"prepare.r",sep="/")) # load function script
 ListSegmentationFunctions()
 # 2) participant specific data aggregation and model fit
-source(paste(functionsWd,"participantFits.r",sep="/")) # load function script
+source(paste(functionsWd,"glmfit.r",sep="/")) # load function script
 # 3) peridoicity vs testLevel aggregation tables
-source(paste(functionsWd,"curveFittingMain.r",sep="/")) # load function script
+source(paste(functionsWd,"predict.r",sep="/")) # load function script
 # 3.1) periodicity vs testLevel curve fitting function (called from within curve_fit_1)
-source(paste(functionsWd,"curvePsychometricFunctions.r",sep="/")) # load function script
+source(paste(functionsWd,"psyFunctions.r",sep="/")) # load function script
 # 3.2) periodicity vs testLevel bootstrapping function (called from within curve_fit_1)
-source(paste(functionsWd,"bootstrapPsychometricFunctions.r",sep="/")) # load function script
+source(paste(functionsWd,"bootstrapping.r",sep="/")) # load function script
 
 #--------------------------------------------
 #- load and clean data
@@ -67,7 +67,7 @@ for (i in 1:noPs){
   # fit P i with glm models and remove outliers
   p <- participant(dat, i)
   # plot P i with psychometric curves and bootstrap
-  p.out <- curve.fitting.1(p[1], data.frame(p[2]), data.frame(p[3]), p[[4]], p[[5]])
+  p.out <- curve.fitting(p[1], data.frame(p[2]), data.frame(p[3]), p[[4]], p[[5]])
   dev.off()
   rm(p)
   # process output so that it can be appended to output data.frame
